@@ -9,11 +9,11 @@ const About = () => {
       </p>
       
       <p className="mt-4 text-lg leading-8">
-        I specialize in building complete web solutions from the ground up — from designing intuitive UI/UX to implementing secure and efficient server-side logic. Whether it's a single-page application or a full-stack system, I strive to deliver clean code, performance optimization, and elegant design.
+        I specialize in building complete web solutions from the ground up — from designing intuitive UI/UX to implementing secure and efficient server-side logic. Whether it&apos;s a single-page application or a full-stack system, I strive to deliver clean code, performance optimization, and elegant design.
       </p>
 
       <p className="mt-4 text-lg leading-8">
-        Over time, I have worked with databases like MongoDB and MySQL, built custom admin dashboards, integrated third-party APIs, and developed tools using modern AI models. I'm constantly learning and improving my skills to stay updated with the latest trends and technologies.
+        Over time, I have worked with databases like MongoDB and MySQL, built custom admin dashboards, integrated third-party APIs, and developed tools using modern AI models. I&apos;m constantly learning and improving my skills to stay updated with the latest trends and technologies.
       </p>
 
       <p className="mt-4 text-lg leading-8">
