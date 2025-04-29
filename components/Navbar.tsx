@@ -14,10 +14,10 @@ const Navbar = () => {
   const navLinks = [
     { name: "Home", path: "/" },
     { name: "About", path: "/about" },
-    { name: "Contact", path: "/contact" },
     { name: "Experience", path: "/experience" },
     { name: "Projects", path: "/projects" },
     { name: "Certifications", path: "/certifications" },
+    { name: "Contact", path: "/contact" },
     { name: "Education & Training", path: "/education-training" },
     { name: "Resume", path: "/resume" },
   ];
