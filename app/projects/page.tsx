@@ -7,8 +7,14 @@ const Projects = () => {
       <SectionHeading title="Projects" />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         <ProjectCard
+          title="Admin Dashboard Website"
+          image="/admin-dashboard.png"
+          sourceCode="https://github.com/mnasirk97/dashboard"
+          livePreview="https://admin-dashboard-nasir.netlify.app/"
+        />
+        <ProjectCard
           title="Nexir E-commerce Website"
-          image="/nexir_image_1.jpeg"
+          image="/nexir_image_2.jpeg"
           sourceCode="https://github.com/mnasirkhan97/nexir"
           livePreview="https://nexir.vercel.app"
         />
@@ -28,7 +34,13 @@ const Projects = () => {
           title="Password Strength Meter"
           image="/password-strength-indicator.png"
           sourceCode="https://github.com/mnasirk97/Password_Strength_Indicator/blob/main/app.py"
-          livePreview="https://password-strength-indicator-v1-nasir.streamlit.app//"
+          livePreview="https://password-strength-indicator-v1-nasir.streamlit.app/"
+        />
+        <ProjectCard
+          title="Weather App"
+          image="/weather-app.png"
+          sourceCode="https://github.com/mnasirk97/weather-app-react"
+          livePreview="https://nasir-weather-app-project02.netlify.app/"
         />
       </div>
     </section>
